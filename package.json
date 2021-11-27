@@ -1,0 +1,25 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "Typescript Practices",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuntunpandit/typescript-practice.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Tuntun Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "3.4.1",
+    "typescript": "2.6.2",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  }
+}
